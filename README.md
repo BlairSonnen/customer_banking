@@ -1,4 +1,4 @@
-## Module 3 challenge homework
+# Module 3 challenge homework
 
 ### Authored by Blair Sonnen for the AI Bootcamp West 
 
